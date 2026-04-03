@@ -79,11 +79,12 @@
 
 ---
 
-# 🏆 Top Languages
+# 🏆 Top Technologies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0370&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,html,css,powerbi,git" />
 </p>
+
 
 
 ---
