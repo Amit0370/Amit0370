@@ -102,6 +102,10 @@
 
 </p>
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Amit0370/Amit0370/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ⭐ From Amit Tapase
