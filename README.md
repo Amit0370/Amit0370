@@ -65,7 +65,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amit0370&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amit0370&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit0370&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -81,7 +82,7 @@
 # 🏆 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0370&layout=compact&theme=tokyonight&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0370&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
