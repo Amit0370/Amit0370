@@ -35,8 +35,18 @@
 ### 📊 Data Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,powerbi,mysql,excel" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,git,github,vscode" />
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard%20Building-7B1FA2?style=for-the-badge"/>
+</p>
+
 
 ---
 
