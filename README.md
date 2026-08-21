@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=2C6FBB&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+Into+Business+Decisions;Full+Stack+Developer+%7C+Java+%7C+React" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C6FBB&height=200&section=header&text=Amit%20Tapase&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Excel&descAlignY=55&descSize=18" width="100%" />
 
-# Hi 👋, I'm Amit Tapase
-
-### Data Analyst | Python · SQL · Power BI · Excel | Full Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=2C6FBB&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Also+a+Java+Full+Stack+Developer" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Amit0370&label=Profile%20views&color=2C6FBB&style=flat" alt="profile views" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat&logo=linkedin&logoColor=white" alt="open to work" />
 
 </div>
 
@@ -18,12 +17,20 @@
 
 </div>
 
-- 📊 **Data Analyst (fresher)** — I turn messy, real-world data into dashboards and insights that drive decisions
-- 🧰 Comfortable across the full analyst stack: **Python (pandas) → SQL → Excel → Power BI**
-- 💻 Also a **Java Full Stack Developer** (Spring Boot, React, MERN) — I can build the systems that generate the data, not just analyze it
-- 🎯 Currently looking for **Data Analyst / Business Analyst fresher roles**
-- 📍 Pune, Maharashtra, India
-- 📫 amittapase007@gmail.com
+<table align="center">
+<tr>
+<td>
+
+🔭 &nbsp;Currently building &nbsp;**end-to-end data analytics projects** (Python → SQL → Power BI/Excel)
+🌱 &nbsp;Currently sharpening &nbsp;**DAX, advanced SQL, and dashboard storytelling**
+💬 &nbsp;Ask me about &nbsp;**data cleaning, EDA, or Power BI dashboards**
+🎯 &nbsp;Looking for &nbsp;**Data Analyst / Business Analyst fresher roles**
+📍 &nbsp;Pune, Maharashtra, India
+📫 &nbsp;amittapase007@gmail.com
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,33 +68,39 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👥 [HR Attrition & Workforce Analytics](https://github.com/Amit0370/hr-attrition-analytics)
+### 👥 HR Attrition & Workforce Analytics
 Analyzed 1,500 employee records to identify attrition drivers (overtime,
 tenure, satisfaction) using Python, SQL, Excel, and Power BI.
 
 `Python` `SQL` `Power BI` `Excel`
 
-</td>
-<td width="50%">
+[![Repo](https://img.shields.io/badge/View%20Repo-2C6FBB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit0370/hr-attrition-analytics)
 
-### 🛍️ [Superstore Sales Performance Dashboard](https://github.com/Amit0370/superstore-sales-dashboard)
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Superstore Sales Performance Dashboard
 Sales & profit analysis on 4,000 orders across region, category, and
 discount level — the classic BI portfolio project pattern.
 
 `Python` `SQL` `Power BI` `Excel`
 
+[![Repo](https://img.shields.io/badge/View%20Repo-2C6FBB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit0370/superstore-sales-dashboard)
+
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2" align="center">
+<td width="50%" valign="top" colspan="2" align="center">
 
-### ✈️ [Airline Data Analysis](https://github.com/Amit0370)
+### ✈️ Airline Data Analysis
 Power BI dashboard with data cleaning and business insights on airline
 performance data.
 
 `Power BI` `Data Cleaning`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-2C6FBB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit0370)
 
 </td>
 </tr>
@@ -108,6 +121,10 @@ performance data.
 ---
 
 <div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amit0370&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 ## 📊 GitHub Stats
 
@@ -138,7 +155,7 @@ performance data.
 
 <img src="https://raw.githubusercontent.com/Amit0370/Amit0370/output/github-contribution-grid-snake.svg" alt="snake" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C6FBB&height=100&section=footer" width="100%" />
 
 ⭐ From Amit Tapase
 
