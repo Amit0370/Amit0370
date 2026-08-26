@@ -9,29 +9,14 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Amit0370&label=PROFILE%20VIEWS&color=2C6FBB&style=for-the-badge" />
-
- 
-
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
- 
-
 <img src="https://img.shields.io/badge/PUNE%2C%20INDIA-2C6FBB?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
 <br><br>
-
 <a href="https://github.com/Amit0370?tab=repositories">
 <img src="https://img.shields.io/badge/📊%20PROJECTS-Explore-2C6FBB?style=for-the-badge" />
 </a>
-
- 
-
 <a href="https://www.linkedin.com/in/amit-tapase-279b4b150">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
- 
-
 <a href="mailto:amittapase007@gmail.com">
 <img src="https://img.shields.io/badge/📧%20EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
