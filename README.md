@@ -1,137 +1,410 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C6FBB&height=200&section=header&text=Amit%20Tapase&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Excel&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=230&section=header&text=Amit%20Tapase&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=58&descSize=19" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=2C6FBB&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Also+a+Java+Full+Stack+Developer" alt="Typing SVG" />
+# 👋 Hi, I'm Amit Tapase
 
-<img src="https://komarev.com/ghpvc/?username=Amit0370&label=Profile%20views&color=2C6FBB&style=flat" alt="profile views" />
-<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat&logo=linkedin&logoColor=white" alt="open to work" />
+### 📊 Data Analyst | Business Intelligence | Data Visualization
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+End-to-End+Analytics+Projects;Exploring+Data.+Finding+Patterns.+Driving+Decisions." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Amit0370&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Pune%2C%20India-2563EB?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/amit-tapase-279b4b150">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:amittapase007@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+# 🚀 About Me
 
-## 🚀 About Me
+I'm a **Data Analyst** focused on transforming raw data into meaningful business insights.
 
-</div>
+I enjoy working across the complete analytics lifecycle:
 
-<table align="center">
-<tr>
-<td>
+**Raw Data → Cleaning → Exploration → SQL Analysis → Visualization → Dashboard → Business Insights**
 
-🔭 &nbsp;Currently building &nbsp;**end-to-end data analytics projects** (Python → SQL → Power BI/Excel)
-🌱 &nbsp;Currently sharpening &nbsp;**DAX, advanced SQL, and dashboard storytelling**
-💬 &nbsp;Ask me about &nbsp;**data cleaning, EDA, or Power BI dashboards**
-🎯 &nbsp;Looking for &nbsp;**Data Analyst / Business Analyst fresher roles**
-📍 &nbsp;Pune, Maharashtra, India
-📫 &nbsp;amittapase007@gmail.com
+### What I currently work with
 
-</td>
-</tr>
-</table>
+* 🐍 **Python** — Pandas, NumPy, Matplotlib
+* 🗄️ **SQL** — MySQL, PostgreSQL, SQLite
+* 📊 **Power BI** — DAX, Data Modeling, Interactive Dashboards
+* 📗 **Excel** — Data Cleaning, Pivot Tables, Lookup Functions, Dashboards
+* 📈 **Analytics** — EDA, KPI Analysis, Customer Segmentation, Workforce Analytics
+* 🎯 **Focus** — Business Intelligence & Data-Driven Decision Making
+
+📍 Based in **Pune, Maharashtra, India**
+
+🎯 Currently looking for **Data Analyst / Business Analyst / BI Analyst — Fresher & Entry-Level opportunities**
 
 ---
 
-<div align="center">
+# 🧰 Tech Stack
 
-## 🛠️ Skills & Tools
+<div align="center">
 
 ### 📊 Data Analytics
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<br><br>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Visualization-42854F?style=for-the-badge" />
+
+<br><br>
+
+### 📈 Business Intelligence
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dashboard%20Building-7B1FA2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-### 💻 Full Stack Development
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,html,css,git,github,vscode" />
+### 💻 Development & Tools
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,git,github,vscode" />
 
 </div>
 
 ---
 
+# 📊 Featured Data Analytics Projects
+
 <div align="center">
 
-## 📊 Featured Data Analytics Projects
+### Real-world business problems solved using data
 
 </div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 👥 HR Attrition & Workforce Analytics
-Analyzed 1,500 employee records to identify attrition drivers (overtime,
-tenure, satisfaction) using Python, SQL, Excel, and Power BI.
+## 👥 HR Attrition & Workforce Analytics
 
-`Python` `SQL` `Power BI` `Excel`
+**Business Problem**
 
-[![Repo](https://img.shields.io/badge/View%20Repo-2C6FBB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit0370/hr-attrition-analytics)
+Identify the major factors contributing to employee attrition and help HR teams understand workforce risk.
+
+**Analysis**
+
+* Employee attrition trends
+* Overtime impact
+* Job satisfaction
+* Tenure analysis
+* Department-level patterns
+* Workforce demographics
+
+**Tools**
+
+`Python` `SQL` `Excel` `Power BI` `DAX`
+
+<br>
+
+<a href="https://github.com/Amit0370/hr-attrition-analytics">
+<img src="https://img.shields.io/badge/🔎%20View%20Project-2563EB?style=for-the-badge" />
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🛍️ Superstore Sales Performance Dashboard
-Sales & profit analysis on 4,000 orders across region, category, and
-discount level — the classic BI portfolio project pattern.
+## 🛍️ Customer Segmentation — RFM Analysis
 
-`Python` `SQL` `Power BI` `Excel`
+**Business Problem**
 
-[![Repo](https://img.shields.io/badge/View%20Repo-2C6FBB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit0370/superstore-sales-dashboard)
+Identify valuable customer groups and understand purchasing behavior using Recency, Frequency and Monetary analysis.
+
+**Analysis**
+
+* RFM scoring
+* Customer segmentation
+* High-value customers
+* Customer purchasing behavior
+* Segment-level insights
+* Marketing opportunities
+
+**Tools**
+
+`Python` `Pandas` `SQL` `Data Visualization`
+
+<br>
+
+<a href="https://github.com/Amit0370/Customer-Segmentation-RFM-Analysis">
+<img src="https://img.shields.io/badge/🔎%20View%20Project-2563EB?style=for-the-badge" />
+</a>
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top" colspan="2" align="center">
 
-### ✈️ Airline Data Analysis
-Power BI dashboard with data cleaning and business insights on airline
-performance data.
+<td width="50%" valign="top">
 
-`Power BI` `Data Cleaning`
+## 📊 AtliQ HR Analytics
 
-[![Repo](https://img.shields.io/badge/View%20Repo-2C6FBB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit0370)
+**Business Problem**
+
+Analyze workforce data to help HR teams understand employee distribution, attendance and workforce trends.
+
+**Analysis**
+
+* HR KPIs
+* Employee distribution
+* Attendance patterns
+* Workforce trends
+* Department analysis
+* Interactive reporting
+
+**Tools**
+
+`Power BI` `DAX` `Data Modeling`
+
+<br>
+
+<a href="https://github.com/Amit0370/AtliQ-HR-Analytics">
+<img src="https://img.shields.io/badge/🔎%20View%20Project-2563EB?style=for-the-badge" />
+</a>
 
 </td>
+
+<td width="50%" valign="top">
+
+## ✈️ Airline Data Analysis
+
+**Business Problem**
+
+Explore airline performance data and identify trends through interactive business intelligence reporting.
+
+**Analysis**
+
+* Airline performance
+* KPI tracking
+* Data cleaning
+* Interactive filtering
+* Business insights
+* Visual storytelling
+
+**Tools**
+
+`Power BI` `Data Cleaning` `Data Visualization`
+
+<br>
+
+<a href="https://github.com/Amit0370">
+<img src="https://img.shields.io/badge/🔎%20View%20GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
+# 📈 Analytics Workflow
+
 <div align="center">
 
-## 💻 Other Projects (Full Stack Development)
+<table>
+<tr>
+<td align="center">
+
+### 01
+
+## 📥 Collect
+
+Raw datasets
+Business requirements
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 02
+
+## 🧹 Clean
+
+Missing values
+Duplicates
+Data quality
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 03
+
+## 🔍 Explore
+
+EDA
+Patterns
+Trends
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 04
+
+## 🧮 Analyze
+
+SQL
+KPIs
+Business metrics
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 05
+
+## 📊 Visualize
+
+Power BI
+Excel
+Dashboards
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 06
+
+## 💡 Decide
+
+Insights
+Recommendations
+Actions
+
+</td>
+</tr>
+</table>
 
 </div>
 
-- 🚗 **[Vehicle Renting System](https://github.com/Amit0370/Vehicle-Renting-System)** — MERN stack, authentication & booking system, admin dashboard
-- 🍕 **Pizza Delivery Management System** — Spring Boot + MVC, order tracking, MySQL
-- 📚 **[SkillSphere](https://github.com/Amit0370/SkillSphere)** — E-learning platform, JavaScript
-
 ---
+
+# 💡 What I Can Do
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+| Area                   | What I Work On                                          |
+| ---------------------- | ------------------------------------------------------- |
+| 🐍 Python              | Data Cleaning, EDA, Pandas, NumPy                       |
+| 🗄️ SQL                | Joins, Aggregations, CTEs, Subqueries, Window Functions |
+| 📊 Power BI            | Data Modeling, DAX, KPIs, Interactive Dashboards        |
+| 📗 Excel               | Cleaning, Pivot Tables, Lookups, Reporting              |
+| 👥 HR Analytics        | Attrition, Workforce & Employee Analysis                |
+| 🛍️ Customer Analytics | RFM, Segmentation & Customer Behavior                   |
+| 📈 Business Analytics  | KPI Tracking, Trends & Decision Support                 |
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amit0370&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
-## 📊 GitHub Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amit0370&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit0370&theme=tokyonight&hide_border=true" width="48%" />
+# 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0370&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amit0370&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit0370&hide_border=true&theme=transparent" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0370&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="45%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Amit0370/Amit0370/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%" />
+
+</div>
+
+---
+
+# 💻 Other Development Projects
+
+While my current career focus is **Data Analytics**, I also have a software development background.
+
+### 🚗 Vehicle Renting System
+
+MERN-based vehicle rental application with authentication, booking and admin functionality.
+
+<a href="https://github.com/Amit0370/Vehicle-Renting-System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### 📚 SkillSphere
+
+E-learning platform developed using JavaScript and web technologies.
+
+<a href="https://github.com/Amit0370/SkillSphere">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1mwdZPWVifIWGOKfX-h36V33Db1LCF4T2/view?usp=drive_link">
+
+<img src="https://img.shields.io/badge/📄%20View%20My%20Resume-2563EB?style=for-the-badge" />
+
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/amit-tapase-279b4b150">
+
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
+
+ 
+
+<a href="mailto:amittapase007@gmail.com">
+
+<img src="https://img.shields.io/badge/📧%20Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</a>
 
 </div>
 
@@ -139,24 +412,30 @@ performance data.
 
 <div align="center">
 
-## 📄 Resume
+## ⭐ Let's Connect
 
-[![Resume](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1mwdZPWVifIWGOKfX-h36V33Db1LCF4T2/view?usp=drive_link)
+**I'm actively looking for opportunities where I can use data to solve real business problems.**
 
-## 🤝 Connect With Me
+If you're working on **Data Analytics, Business Intelligence, or Data Visualization**, feel free to connect.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amittapase007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit0370)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-tapase-279b4b150)
+<br>
 
----
+<a href="https://github.com/Amit0370">
+<img src="https://img.shields.io/badge/GitHub-Amit0370-181717?style=for-the-badge&logo=github" />
+</a>
 
-### 🐍 Contribution Snake
+<a href="https://www.linkedin.com/in/amit-tapase-279b4b150">
+<img src="https://img.shields.io/badge/LinkedIn-Amit%20Tapase-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-<img src="https://raw.githubusercontent.com/Amit0370/Amit0370/output/github-contribution-grid-snake.svg" alt="snake" />
+<a href="mailto:amittapase007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-amittapase007-D14836?style=for-the-badge&logo=gmail" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C6FBB&height=100&section=footer" width="100%" />
+<br><br>
 
-⭐ From Amit Tapase
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A5F,100:0F172A&height=120&section=footer" width="100%" />
+
+**© Amit Tapase • Data Analyst • Pune, India**
 
 </div>
