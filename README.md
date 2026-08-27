@@ -1,40 +1,3 @@
-Pasted markdown.md
-File
-
-
-add github trophies section in this readme file without chaniging anytihing else
-
-Done. I added only the GitHub Trophies section and left the rest of your README unchanged.
-
-Download the updated README 
-
-Pasted_markdown_with_github_trophies.md
-Document
-not working
-
-You're right. The issue is likely the trophy service URL/theme, not your README structure.
-
-For GitHub Profile Trophies, use this simpler, reliable version. Add it between “GitHub Analytics” and “Contribution Activity”:
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amit0370&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%" />
-
-</div>
-
----
-Important
-
-Your GitHub username is Amit0370, so the URL is correct.
-
-If that still doesn't display, the likely problem is that github-profile-trophy.vercel.app itself is temporarily unavailable or GitHub is blocking the generated image—not your README.
-
-If you want, I can also give you a GitHub-trophies section that matches your current blue/white README design exactly.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2C6FBB&height=240&section=header&text=Amit%20Tapase&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20POWER%20BI%20%7C%20EXCEL&descAlignY=58&descSize=18" width="100%" />
@@ -45,18 +8,32 @@ If you want, I can also give you a GitHub-trophies section that matches your cur
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Amit0370&label=PROFILE%20VIEWS&color=2C6FBB&style=for-the-badge" /> <img src="https://img.shields.io/badge/PUNE%2C%20INDIA-2C6FBB?style=for-the-badge&logo=googlemaps&logoColor=white" /> <br><br> <a href="https://github.com/Amit0370?tab=repositories"> <img src="https://img.shields.io/badge/📊%20PROJECTS-Explore-2C6FBB?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/amit-tapase-279b4b150"> <img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:amittapase007@gmail.com"> <img src="https://img.shields.io/badge/📧%20EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<img src="https://komarev.com/ghpvc/?username=Amit0370&label=PROFILE%20VIEWS&color=2C6FBB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PUNE%2C%20INDIA-2C6FBB?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<br><br>
+<a href="https://github.com/Amit0370?tab=repositories">
+<img src="https://img.shields.io/badge/📊%20PROJECTS-Explore-2C6FBB?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/amit-tapase-279b4b150">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:amittapase007@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <div align="center">
 
 👋 Hi, I'm Amit
+
 Data Analyst focused on turning data into actionable business decisions.
 
 </div>
 
-<table align="center"> <tr> <td align="center" width="25%">
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
 📊
 
@@ -94,7 +71,9 @@ Career Focus
 
 Data Analytics
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
 🚀 About Me
 
@@ -105,15 +84,25 @@ My approach is simple:
 Understand the business problem → analyze the data → identify patterns → visualize insights → support better decisions.
 
 🔎 What I Work On
+
 🐍 Data analysis using Python & Pandas
+
 🗄️ Business analysis using SQL
+
 📊 Interactive dashboards using Power BI
+
 📗 Reporting and analysis using Excel
+
 🔍 Exploratory Data Analysis
+
 📈 KPI and trend analysis
+
 👥 HR & workforce analytics
+
 🛍️ Customer segmentation & behavioral analytics
+
 💡 Business insights & recommendations
+
 🎯 Currently Looking For
 
 Data Analyst • Business Analyst • BI Analyst • Reporting Analyst
@@ -220,13 +209,17 @@ INSIGHTS
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 
 <br><br>
 
 📊 Business Intelligence
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 <br><br>
 
@@ -244,7 +237,8 @@ Projects built around real business questions
 
 </div>
 
-<table> <tr>
+<table>
+<tr>
 
 <td width="50%" valign="top">
 
@@ -255,19 +249,28 @@ Business Question
 What factors are associated with employee attrition?
 
 🔍 Analysis
+
 Attrition trends
+
 Overtime impact
+
 Job satisfaction
+
 Employee tenure
+
 Department analysis
+
 Workforce demographics
+
 🧰 Tools
 
 Python SQL Excel Power BI DAX
 
 <br>
 
-<a href="https://github.com/Amit0370/hr-attrition-analytics"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-2C6FBB?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/Amit0370/hr-attrition-analytics">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2C6FBB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -280,19 +283,28 @@ Business Question
 Which customers are most valuable and how do their behaviors differ?
 
 🔍 Analysis
+
 Recency
+
 Frequency
+
 Monetary value
+
 Customer segments
+
 High-value customers
+
 Marketing opportunities
+
 🧰 Tools
 
 Python Pandas SQL Visualization
 
 <br>
 
-<a href="https://github.com/Amit0370/Customer-Segmentation-RFM-Analysis"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-2C6FBB?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/Amit0370/Customer-Segmentation-RFM-Analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2C6FBB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -309,19 +321,28 @@ Business Question
 What does workforce data tell us about employee distribution and attendance?
 
 🔍 Analysis
+
 HR KPIs
+
 Employee distribution
+
 Attendance
+
 Workforce trends
+
 Department analysis
+
 Interactive reporting
+
 🧰 Tools
 
 Power BI DAX Data Modeling
 
 <br>
 
-<a href="https://github.com/Amit0370/AtliQ-HR-Analytics"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-2C6FBB?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/Amit0370/AtliQ-HR-Analytics">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2C6FBB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
@@ -334,23 +355,33 @@ Business Question
 How can airline performance data be transformed into actionable insights?
 
 🔍 Analysis
+
 Performance analysis
+
 KPI tracking
+
 Data cleaning
+
 Trend analysis
+
 Interactive filtering
+
 Business insights
+
 🧰 Tools
 
 Power BI Data Cleaning Visualization
 
 <br>
 
-<a href="https://github.com/Amit0370"> <img src="https://img.shields.io/badge/VIEW%20GITHUB-2C6FBB?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/Amit0370">
+<img src="https://img.shields.io/badge/VIEW%20GITHUB-2C6FBB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 📸 Dashboard Showcase
 
@@ -360,7 +391,8 @@ From raw data → interactive dashboards
 
 </div>
 
-<table> <tr>
+<table>
+<tr>
 
 <td width="50%" align="center">
 
@@ -382,7 +414,8 @@ Power BI Data Modeling KPI Analysis
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 💡 Replace the two placeholder images above with your actual dashboard screenshots.
 
@@ -397,9 +430,13 @@ Power BI Data Modeling KPI Analysis
 <td width="33%" valign="top">
 
 👥 Workforce
+
 Why are employees leaving?
+
 Which departments have higher attrition?
+
 Does overtime affect retention?
+
 How does tenure influence attrition?
 
 </td>
@@ -407,9 +444,13 @@ How does tenure influence attrition?
 <td width="33%" valign="top">
 
 🛍️ Customers
+
 Who are our most valuable customers?
+
 Which customers need attention?
+
 What purchasing patterns exist?
+
 How can customers be segmented?
 
 </td>
@@ -417,9 +458,13 @@ How can customers be segmented?
 <td width="33%" valign="top">
 
 📈 Business
+
 Which KPIs are changing?
+
 Where are performance gaps?
+
 What trends are emerging?
+
 What action should the business take?
 
 </td>
@@ -434,7 +479,11 @@ What action should the business take?
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20SQL-2C6FBB?style=for-the-badge" /> <img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge" /> <img src="https://img.shields.io/badge/Power%20BI%20Data%20Modeling-2C6FBB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Dashboard%20Storytelling-2C6FBB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Business%20Analytics-2C6FBB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Advanced%20SQL-2C6FBB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI%20Data%20Modeling-2C6FBB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboard%20Storytelling-2C6FBB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business%20Analytics-2C6FBB?style=for-the-badge" />
 
 </div>
 
@@ -464,20 +513,35 @@ What action should the business take?
 
 My primary career focus is Data Analytics, but I also have a background in full-stack software development.
 
-Project	Technologies
-🚗 Vehicle Renting System	MERN, Authentication, Booking, Admin Dashboard
-🍕 Pizza Delivery Management System	Spring Boot, MVC, MySQL
-📚 SkillSphere	JavaScript, Web Development
+Project
+
+Technologies
+
+🚗 Vehicle Renting System
+
+MERN, Authentication, Booking, Admin Dashboard
+
+🍕 Pizza Delivery Management System
+
+Spring Boot, MVC, MySQL
+
+📚 SkillSphere
+
+JavaScript, Web Development
 
 <br>
 
 <div align="center">
 
-<a href="https://github.com/Amit0370/Vehicle-Renting-System"> <img src="https://img.shields.io/badge/Vehicle%20Renting%20System-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/Amit0370/Vehicle-Renting-System">
+<img src="https://img.shields.io/badge/Vehicle%20Renting%20System-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
- 
+ 
 
-<a href="https://github.com/Amit0370/SkillSphere"> <img src="https://img.shields.io/badge/SkillSphere-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/Amit0370/SkillSphere">
+<img src="https://img.shields.io/badge/SkillSphere-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -503,15 +567,21 @@ Data Analyst • Business Analyst • BI Analyst • Reporting Analyst
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amit-tapase-279b4b150"> <img src="https://img.shields.io/badge/LinkedIn-Amit%20Tapase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/amit-tapase-279b4b150">
+<img src="https://img.shields.io/badge/LinkedIn-Amit%20Tapase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
- 
+ 
 
-<a href="mailto:amittapase007@gmail.com"> <img src="https://img.shields.io/badge/Email-amittapase007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:amittapase007@gmail.com">
+<img src="https://img.shields.io/badge/Email-amittapase007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
- 
+ 
 
-<a href="https://github.com/Amit0370"> <img src="https://img.shields.io/badge/GitHub-Amit0370-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/Amit0370">
+<img src="https://img.shields.io/badge/GitHub-Amit0370-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br><br>
 
@@ -526,5 +596,3 @@ Data Analyst • Business Analyst • BI Analyst • Reporting Analyst
 © Amit Tapase • Data Analyst
 
 </div>
-
-Close
