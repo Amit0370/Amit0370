@@ -23,11 +23,13 @@
 
 </div>
 
+---
+
 <div align="center">
 
-👋 Hi, I'm Amit
+## 👋 Hi, I'm Amit
 
-Data Analyst focused on turning data into actionable business decisions.
+### Data Analyst focused on turning data into actionable business decisions.
 
 </div>
 
@@ -35,9 +37,9 @@ Data Analyst focused on turning data into actionable business decisions.
 <tr>
 <td align="center" width="25%">
 
-📊
+### 📊
 
-Analytics Projects
+**Analytics Projects**
 
 Python • SQL • BI
 
@@ -45,9 +47,9 @@ Python • SQL • BI
 
 <td align="center" width="25%">
 
-🐍
+### 🐍
 
-Core Language
+**Core Language**
 
 Python
 
@@ -55,9 +57,9 @@ Python
 
 <td align="center" width="25%">
 
-📈
+### 📈
 
-Visualization
+**Visualization**
 
 Power BI
 
@@ -65,9 +67,9 @@ Power BI
 
 <td align="center" width="25%">
 
-🎯
+### 🎯
 
-Career Focus
+**Career Focus**
 
 Data Analytics
 
@@ -75,41 +77,37 @@ Data Analytics
 </tr>
 </table>
 
-🚀 About Me
+---
 
-I'm a Data Analyst passionate about transforming raw datasets into meaningful insights and decision-ready dashboards.
+# 🚀 About Me
+
+I'm a **Data Analyst** passionate about transforming raw datasets into meaningful insights and decision-ready dashboards.
 
 My approach is simple:
 
-Understand the business problem → analyze the data → identify patterns → visualize insights → support better decisions.
+> **Understand the business problem → analyze the data → identify patterns → visualize insights → support better decisions.**
 
-🔎 What I Work On
+### 🔎 What I Work On
 
-🐍 Data analysis using Python & Pandas
+* 🐍 Data analysis using **Python & Pandas**
+* 🗄️ Business analysis using **SQL**
+* 📊 Interactive dashboards using **Power BI**
+* 📗 Reporting and analysis using **Excel**
+* 🔍 Exploratory Data Analysis
+* 📈 KPI and trend analysis
+* 👥 HR & workforce analytics
+* 🛍️ Customer segmentation & behavioral analytics
+* 💡 Business insights & recommendations
 
-🗄️ Business analysis using SQL
+### 🎯 Currently Looking For
 
-📊 Interactive dashboards using Power BI
-
-📗 Reporting and analysis using Excel
-
-🔍 Exploratory Data Analysis
-
-📈 KPI and trend analysis
-
-👥 HR & workforce analytics
-
-🛍️ Customer segmentation & behavioral analytics
-
-💡 Business insights & recommendations
-
-🎯 Currently Looking For
-
-Data Analyst • Business Analyst • BI Analyst • Reporting Analyst
+**Data Analyst • Business Analyst • BI Analyst • Reporting Analyst**
 
 📍 Pune, Maharashtra, India
 
-🧭 My Analytics Journey
+---
+
+# 🧭 My Analytics Journey
 
 <div align="center">
 
@@ -119,12 +117,12 @@ Data Analyst • Business Analyst • BI Analyst • Reporting Analyst
 
 <td align="center">
 
-01
+### 01
 
 📥
 
-BUSINESS
-QUESTION
+**BUSINESS
+QUESTION**
 
 </td>
 
@@ -132,12 +130,12 @@ QUESTION
 
 <td align="center">
 
-02
+### 02
 
 🧹
 
-DATA
-CLEANING
+**DATA
+CLEANING**
 
 </td>
 
@@ -145,12 +143,12 @@ CLEANING
 
 <td align="center">
 
-03
+### 03
 
 🔍
 
-EXPLORATORY
-ANALYSIS
+**EXPLORATORY
+ANALYSIS**
 
 </td>
 
@@ -158,12 +156,12 @@ ANALYSIS
 
 <td align="center">
 
-04
+### 04
 
 🧮
 
-SQL &
-ANALYTICS
+**SQL &
+ANALYTICS**
 
 </td>
 
@@ -171,12 +169,12 @@ ANALYTICS
 
 <td align="center">
 
-05
+### 05
 
 📊
 
-VISUALIZATION
-& DASHBOARD
+**VISUALIZATION
+& DASHBOARD**
 
 </td>
 
@@ -184,12 +182,12 @@ VISUALIZATION
 
 <td align="center">
 
-06
+### 06
 
 💡
 
-BUSINESS
-INSIGHTS
+**BUSINESS
+INSIGHTS**
 
 </td>
 
@@ -199,11 +197,13 @@ INSIGHTS
 
 </div>
 
-🛠️ Data Analyst Toolkit
+---
+
+# 🛠️ Data Analyst Toolkit
 
 <div align="center">
 
-🐍 Programming & Data Analysis
+### 🐍 Programming & Data Analysis
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 
@@ -215,7 +215,7 @@ INSIGHTS
 
 <br><br>
 
-📊 Business Intelligence
+### 📊 Business Intelligence
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge" />
@@ -223,17 +223,19 @@ INSIGHTS
 
 <br><br>
 
-🧰 Development & Tools
+### 🧰 Development & Tools
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,git,github,vscode" />
 
 </div>
 
-⭐ Featured Analytics Projects
+---
+
+# ⭐ Featured Analytics Projects
 
 <div align="center">
 
-Projects built around real business questions
+### Projects built around real business questions
 
 </div>
 
@@ -242,29 +244,24 @@ Projects built around real business questions
 
 <td width="50%" valign="top">
 
-👥 HR Attrition & Workforce Analytics
+## 👥 HR Attrition & Workforce Analytics
 
-Business Question
+**Business Question**
 
-What factors are associated with employee attrition?
+> What factors are associated with employee attrition?
 
-🔍 Analysis
+### 🔍 Analysis
 
-Attrition trends
+* Attrition trends
+* Overtime impact
+* Job satisfaction
+* Employee tenure
+* Department analysis
+* Workforce demographics
 
-Overtime impact
+### 🧰 Tools
 
-Job satisfaction
-
-Employee tenure
-
-Department analysis
-
-Workforce demographics
-
-🧰 Tools
-
-Python SQL Excel Power BI DAX
+`Python` `SQL` `Excel` `Power BI` `DAX`
 
 <br>
 
@@ -276,29 +273,24 @@ Python SQL Excel Power BI DAX
 
 <td width="50%" valign="top">
 
-🛍️ Customer Segmentation — RFM
+## 🛍️ Customer Segmentation — RFM
 
-Business Question
+**Business Question**
 
-Which customers are most valuable and how do their behaviors differ?
+> Which customers are most valuable and how do their behaviors differ?
 
-🔍 Analysis
+### 🔍 Analysis
 
-Recency
+* Recency
+* Frequency
+* Monetary value
+* Customer segments
+* High-value customers
+* Marketing opportunities
 
-Frequency
+### 🧰 Tools
 
-Monetary value
-
-Customer segments
-
-High-value customers
-
-Marketing opportunities
-
-🧰 Tools
-
-Python Pandas SQL Visualization
+`Python` `Pandas` `SQL` `Visualization`
 
 <br>
 
@@ -314,29 +306,24 @@ Python Pandas SQL Visualization
 
 <td width="50%" valign="top">
 
-📊 AtliQ HR Analytics
+## 📊 AtliQ HR Analytics
 
-Business Question
+**Business Question**
 
-What does workforce data tell us about employee distribution and attendance?
+> What does workforce data tell us about employee distribution and attendance?
 
-🔍 Analysis
+### 🔍 Analysis
 
-HR KPIs
+* HR KPIs
+* Employee distribution
+* Attendance
+* Workforce trends
+* Department analysis
+* Interactive reporting
 
-Employee distribution
+### 🧰 Tools
 
-Attendance
-
-Workforce trends
-
-Department analysis
-
-Interactive reporting
-
-🧰 Tools
-
-Power BI DAX Data Modeling
+`Power BI` `DAX` `Data Modeling`
 
 <br>
 
@@ -348,29 +335,24 @@ Power BI DAX Data Modeling
 
 <td width="50%" valign="top">
 
-✈️ Airline Data Analysis
+## ✈️ Airline Data Analysis
 
-Business Question
+**Business Question**
 
-How can airline performance data be transformed into actionable insights?
+> How can airline performance data be transformed into actionable insights?
 
-🔍 Analysis
+### 🔍 Analysis
 
-Performance analysis
+* Performance analysis
+* KPI tracking
+* Data cleaning
+* Trend analysis
+* Interactive filtering
+* Business insights
 
-KPI tracking
+### 🧰 Tools
 
-Data cleaning
-
-Trend analysis
-
-Interactive filtering
-
-Business insights
-
-🧰 Tools
-
-Power BI Data Cleaning Visualization
+`Power BI` `Data Cleaning` `Visualization`
 
 <br>
 
@@ -383,11 +365,13 @@ Power BI Data Cleaning Visualization
 </tr>
 </table>
 
-📸 Dashboard Showcase
+---
+
+# 📸 Dashboard Showcase
 
 <div align="center">
 
-From raw data → interactive dashboards
+### From raw data → interactive dashboards
 
 </div>
 
@@ -396,30 +380,32 @@ From raw data → interactive dashboards
 
 <td width="50%" align="center">
 
-👥 HR Attrition Dashboard
+### 👥 HR Attrition Dashboard
 
 <img src="https://via.placeholder.com/800x450/0F172A/2C6FBB?text=ADD+YOUR+HR+POWER+BI+SCREENSHOT+HERE" width="95%" />
 
-Power BI DAX HR Analytics
+`Power BI` `DAX` `HR Analytics`
 
 </td>
 
 <td width="50%" align="center">
 
-📊 Business Analytics Dashboard
+### 📊 Business Analytics Dashboard
 
 <img src="https://via.placeholder.com/800x450/0F172A/2C6FBB?text=ADD+YOUR+SECOND+DASHBOARD+HERE" width="95%" />
 
-Power BI Data Modeling KPI Analysis
+`Power BI` `Data Modeling` `KPI Analysis`
 
 </td>
 
 </tr>
 </table>
 
-💡 Replace the two placeholder images above with your actual dashboard screenshots.
+> 💡 **Replace the two placeholder images above with your actual dashboard screenshots.**
 
-💼 Business Questions I Like Solving
+---
+
+# 💼 Business Questions I Like Solving
 
 <div align="center">
 
@@ -429,43 +415,34 @@ Power BI Data Modeling KPI Analysis
 
 <td width="33%" valign="top">
 
-👥 Workforce
+### 👥 Workforce
 
-Why are employees leaving?
-
-Which departments have higher attrition?
-
-Does overtime affect retention?
-
-How does tenure influence attrition?
+* Why are employees leaving?
+* Which departments have higher attrition?
+* Does overtime affect retention?
+* How does tenure influence attrition?
 
 </td>
 
 <td width="33%" valign="top">
 
-🛍️ Customers
+### 🛍️ Customers
 
-Who are our most valuable customers?
-
-Which customers need attention?
-
-What purchasing patterns exist?
-
-How can customers be segmented?
+* Who are our most valuable customers?
+* Which customers need attention?
+* What purchasing patterns exist?
+* How can customers be segmented?
 
 </td>
 
 <td width="33%" valign="top">
 
-📈 Business
+### 📈 Business
 
-Which KPIs are changing?
-
-Where are performance gaps?
-
-What trends are emerging?
-
-What action should the business take?
+* Which KPIs are changing?
+* Where are performance gaps?
+* What trends are emerging?
+* What action should the business take?
 
 </td>
 
@@ -475,7 +452,9 @@ What action should the business take?
 
 </div>
 
-📚 Currently Learning
+---
+
+# 📚 Currently Learning
 
 <div align="center">
 
@@ -487,7 +466,9 @@ What action should the business take?
 
 </div>
 
-📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -501,7 +482,9 @@ What action should the business take?
 
 </div>
 
-🐍 Contribution Activity
+---
+
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -509,25 +492,17 @@ What action should the business take?
 
 </div>
 
-💻 Software Development Background
+---
 
-My primary career focus is Data Analytics, but I also have a background in full-stack software development.
+# 💻 Software Development Background
 
-Project
+My primary career focus is **Data Analytics**, but I also have a background in full-stack software development.
 
-Technologies
-
-🚗 Vehicle Renting System
-
-MERN, Authentication, Booking, Admin Dashboard
-
-🍕 Pizza Delivery Management System
-
-Spring Boot, MVC, MySQL
-
-📚 SkillSphere
-
-JavaScript, Web Development
+| Project                                 | Technologies                                   |
+| --------------------------------------- | ---------------------------------------------- |
+| 🚗 **Vehicle Renting System**           | MERN, Authentication, Booking, Admin Dashboard |
+| 🍕 **Pizza Delivery Management System** | Spring Boot, MVC, MySQL                        |
+| 📚 **SkillSphere**                      | JavaScript, Web Development                    |
 
 <br>
 
@@ -545,7 +520,9 @@ JavaScript, Web Development
 
 </div>
 
-📄 Resume
+---
+
+# 📄 Resume
 
 <div align="center">
 
@@ -557,13 +534,15 @@ JavaScript, Web Development
 
 <br><br>
 
-🎯 Open to Data Analyst Opportunities
+### 🎯 Open to Data Analyst Opportunities
 
-Data Analyst • Business Analyst • BI Analyst • Reporting Analyst
+**Data Analyst • Business Analyst • BI Analyst • Reporting Analyst**
 
 </div>
 
-🤝 Let's Connect
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -585,7 +564,7 @@ Data Analyst • Business Analyst • BI Analyst • Reporting Analyst
 
 <br><br>
 
-📍 Pune, Maharashtra, India
+**📍 Pune, Maharashtra, India**
 
 <br>
 
@@ -593,6 +572,6 @@ Data Analyst • Business Analyst • BI Analyst • Reporting Analyst
 
 <br>
 
-© Amit Tapase • Data Analyst
+**© Amit Tapase • Data Analyst**
 
 </div>
